@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.52.1](https://github.com/mdn/yari/compare/v2.52.0...v2.52.1) (2024-05-14)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump eslint-plugin-unicorn from 52.0.0 to 53.0.0 ([#11103](https://github.com/mdn/yari/issues/11103)) ([0b263d0](https://github.com/mdn/yari/commit/0b263d0e6822ef7f9812760a14b6e3b4a1b879fe))
+
 ## [2.52.0](https://github.com/mdn/yari/compare/v2.51.0...v2.52.0) (2024-05-14)
 
 
